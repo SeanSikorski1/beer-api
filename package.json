@@ -1,0 +1,22 @@
+{
+  "name": "beer-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanSikorski1/beer-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanSikorski1/beer-api/issues"
+  },
+  "homepage": "https://github.com/SeanSikorski1/beer-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
